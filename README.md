@@ -1,0 +1,2 @@
+# SafeScan
+This project is intended to be used as an extension to the BeAware Bahrain (covid-19) Application. It tends to ease the process for both individuals and business owners during this period by introducing, QR codes for each customer and scanning option for business owners as well as recording it in a database. Most importantly it has a QnA Chatbot that can answer any covid-19 related and Bahrain questions.
